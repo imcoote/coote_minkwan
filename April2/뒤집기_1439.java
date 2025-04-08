@@ -28,7 +28,7 @@ public class 뒤집기_1439 {
                 }
             }
         }
-
+        // test
         System.out.println(Math.min(cnt0, cnt1));
     }
 }
