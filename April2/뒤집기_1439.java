@@ -1,3 +1,14 @@
+/*
+- 문제 풀이 시간: 30분
+- 시간복잡도: O(N)
+- 메모리: 14312KB
+- 실행시간: 104ms
+- 풀이
+    - 숫자가 바뀔 때마다 카운트를 해줌
+    - 문자열의 첫번째 숫자부터 확인
+    - 뒤집는 경우는 숫자가 바뀌는 순간 0 또는 1중 최솟값 카운트를 출력
+*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

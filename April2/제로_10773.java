@@ -1,3 +1,13 @@
+/*
+- 문제 풀이 시간: 15분
+- 시간복잡도:
+    - O(N): K개에 대한 스택연산
+- 메모리: 23892KB
+- 실행시간: 208ms
+- 풀이
+    - 스택을 활용한 수 입력 관리
+*/
+
 import java.util.Stack;
 import java.io.BufferedReader;
 import java.io.IOException;

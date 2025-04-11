@@ -1,3 +1,15 @@
+/*
+- 문제 풀이 시간: 10분
+- 시간복잡도:
+    - O(n): N개의 정수
+    - O(log n): add와 poll연산
+    - O(n*logn)
+- 메모리: 31268KB
+- 실행시간: 784ms
+- 풀이
+    - 우선순위 큐를 사용한 최소 힙 구현
+*/
+
 import java.io.*;
 import java.util.*;
 
