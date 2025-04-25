@@ -1,3 +1,13 @@
+/*
+- 문제 풀이 시간: 15분
+- 시간복잡도:
+    - (M×N)
+- 메모리: 14216KB
+- 실행시간: 104ms
+- 풀이
+    - dequeue를 사용하여 구현
+*/
+
 import java.io.*;
 import java.util.*;
 
