@@ -1,3 +1,12 @@
+/*
+- 문제 풀이 시간: 30분
+- 시간복잡도:
+- 메모리: 14284KB
+- 실행시간: 104ms
+- 풀이
+    - 모음, 자음을 카운팅하면서 암호를 완성
+*/
+
 import java.io.*;
 import java.util.*;
 
@@ -51,6 +60,6 @@ public class 암호만들기_1759 {
 
         createPwd(0, 0, 0, 0);
 
-        System.out.println(sb);
+        System.out.print(sb);
     }
 }
